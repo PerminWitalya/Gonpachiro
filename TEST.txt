@@ -1,1 +1,1 @@
-print("Gonpachiro my name is AdamBoranov")
+print("Gonpachiro in smeharik");
